@@ -1,3 +1,3 @@
 # RADICAL-UCL
 
-This repo is to agenda contents and documents (for now) required for the ISC submission.
+This repo is to agenda contents and documents required the INSPIRE collaboration
